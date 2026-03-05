@@ -13,3 +13,7 @@ body{
     margin: 10px;
     background-color: rgb(255, 186, 82);
 }
+
+.flex{
+    display: flex;
+}
